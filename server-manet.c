@@ -1,4 +1,6 @@
-# released under GPLv3
+/*
+* released under GPLv3
+*/
 // gcc -lpthread server-manet.c -o server-manet
 // gcc -I/usr/include/mysql/ -L/usr/lib64/mysql/ -lmysqlclient -lpthread server-manet.c -o server-manet
 // indent -npro -kr -i8 -ts8 -sob -l280 -ss -ncs -cp1 *
