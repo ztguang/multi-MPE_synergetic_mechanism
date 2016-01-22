@@ -1,6 +1,5 @@
-/*
-* released under GPLv3
-*/
+# released under GPLv3
+
 ++++++++++++++++++++++++++++++++++++++++++++++
 
 make testing in single PC without CORE:
