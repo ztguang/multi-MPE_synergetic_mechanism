@@ -1,3 +1,6 @@
+/*
+* released under GPLv3
+*/
 // gcc client-manet.c -o client-manet
 // indent -npro -kr -i8 -ts8 -sob -l280 -ss -ncs -cp1 *
 
